@@ -4,7 +4,7 @@ modified: 2023-06-18
 comments: false
 image:
    display: true
-   feature: eel-pond.jpg
+   feature: imagewrap/publications.jpg
 ---
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>

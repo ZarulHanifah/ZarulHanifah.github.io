@@ -212,7 +212,7 @@ class Publications:
         W('comments: false')
         W('image:')
         W('   display: true')
-        W('   feature: eel-pond.jpg')
+        W('   feature: imagewrap/publications.jpg')
         W('---\n')
 
         W('''<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>\n''')

@@ -4,5 +4,5 @@ title: Contact us
 excerpt: "Fast Genomics Solutions"
 image:
    display: true
-   feature: imagewrap/mountain.jpg
+   feature: imagewrap/contactus.jpg
 ---
