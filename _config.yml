@@ -2,7 +2,7 @@
 
 title:            Fast Genomics Solutionz
 locale:           en_US
-url:              http://fastgenomicssolutions.com/
+url:              http://fastgenomicssolutions.com
 
 # Jekyll configuration
 permalink: /:year/:month/:day/:title/
