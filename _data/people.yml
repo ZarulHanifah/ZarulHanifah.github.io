@@ -1,0 +1,138 @@
+- alias: azam
+  lab_member: True
+  name: Azam Nasir (Azam)
+  name_as_author: XXX
+  role: CFO
+  twitter: 
+  github: 
+  web: 
+  avatar: bio-azam.jpg
+  email: 
+  twitter: 
+  github: 
+  linkedin: 
+  orcid: 
+  phone: 
+  skype: 
+  address: Monash University Malaysia
+  bio: "I am Azam. I like forest."
+  affiliations:
+    - title: PhD student
+      inst: Monash University Malaysia
+      inst_link: https://www.monash.edu.my/
+      current: true
+
+- alias: zarul
+  lab_member: True
+  name: Zarul Hanifah (Zarul)
+  name_as_author: Muhammad Zarul Hanifah Md Zoqratt
+  role: CEO
+  twitter: Zarul_Hanifah
+  github: ZarulHanifah
+  web: 
+  avatar: bio-zarul.jpg
+  email: zarulsaurus@gmail.com
+  twitter: 
+  github: ZarulHanifah
+  linkedin: Zarul Hanifah
+  orcid: 0000-0002-5075-1828
+  phone: +601160905857
+  skype: 
+  address: Monash University Malaysia
+  bio: "I am Zarul."
+  affiliations:
+    - title: PhD student
+      inst: Monash University Malaysia
+      inst_link: https://www.monash.edu.my/
+      current: true
+
+- alias: harpreet
+  lab_member: True
+  name: Harpreet Kaur (Harpreet)
+  name_as_author: Harpreet Kaur
+  role: COO
+  twitter: 
+  github: 
+  web: 
+  avatar: bio-harpreet.jpg
+  email: 
+  twitter: 
+  github: 
+  linkedin: 
+  orcid: 
+  phone: 
+  skype: 
+  address: Monash University Malaysia
+  bio: "I am Harpreet."
+  affiliations:
+    - title: PhD student
+      inst: Monash University Malaysia
+      inst_link: https://www.monash.edu.my/
+      current: true
+
+####################################################################################
+# Lab Alumni.
+####################################################################################
+
+# - alias: sam
+#   lab_member: True
+#   name: Samuel Miller
+#   name_as_author: Samuel E Miller
+#   tenure_start: 11/2019
+#   tenure_end: 9/2022
+#   nick_name: Sam
+#   contributions: "Sam took on one of the most exciting challenges our group has to offer: taking advantage of the recent advances in high-throughput sequencing of short RNA molecules to make sense of microbial tRNA transcripts in complex habitats. Towards this goal, he developed novel and advanced open-source software tools to study all aspects of chemical modification and relative abundance analysis of tRNA transcripts, and combining them with tRNA genes, codons, and metabolisms found in genomes and metagenomes"
+#   current_info: a Scientific Programmer for <a href="https://ccomp-stc.org/" target="_blank">the Center for Chemical Currencies of a Microbial Planet</a> at the <a href="https://mbl.edu" target="_blank">Marine Biological Laboratory</a>.
+#   role: Post-doctoral Scientist
+#   email: samuelmiller@uchicago.edu
+#   orcid: 0000-0002-2836-1401
+#   twitter: smiller_science
+#   github: semiller10
+#   web: https://semiller10.github.io
+#   avatar: bio-sam.jpg
+#   address: Knapp Center for Biomedical Discovery, 900 E. 57th St., MB 9, RM 9148, Chicago, IL 60637 USA
+#   bio: "I study how microbes function in their environments by developing and applying computational tools to interpret data from approaches such as tRNA-sequencing, proteomics, and metagenomics."
+#   affiliations:
+#     - title: Post-doctoral Scientist
+#       inst: The Department of Medicine at the University of Chicago
+#       inst_link: http://medicine.uchicago.edu/
+
+####################################################################################
+# Collaborators and partners in science
+####################################################################################
+
+# - alias: mikeyu
+#   collaborator: True
+#   name: Michael Yu
+#   name_as_author: Michael K Yu
+#   avatar: bio-mikeyu.jpg
+#   email: mikeyu@ttic.edu
+#   web: https://www.ttic.edu/faculty/yu/
+#   role: Partner in Science / Collaborator
+#   linkedin: michaelyumit
+#   github: michaelkyu
+#   bio: "I develop new machine learning methods and algorithms to study large biomedical datasets. I'm interested in transferring techniques in computational biology to other fields, including natural language processing."
+#   affiliations:
+#     - title: Research Assistant Professor
+#       inst: Toyota Technological Institute at Chicago
+#       inst_link: https://www.ttic.edu/
+
+####################################################################################
+# Community Guests & Contributors
+####################################################################################
+
+# - alias: chiara
+#   community_member: True
+#   name: Chiara Vanni
+#   name_as_author: Chiara Vanni
+#   avatar: bio-chiara.jpg
+#   email: cvanni@mpi-bremen.de
+#   orcid: 0000-0002-1124-1147
+#   github: ChiaraVanni
+#   web: https://scholar.google.com/citations?user=0-KzK6MAAAAJ&hl=en
+#   role: Contributing hero
+#   twitter: ChiaraVanni5
+#   affiliations:
+#     - title: Graduate Student
+#       inst: Max Planck Institute for Marine Microbiology
+#       inst_link: https://mpi-bremen.de

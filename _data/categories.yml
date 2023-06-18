@@ -1,0 +1,6 @@
+- name: miscellaneous
+  color: purple
+- name: bioinfo
+  color: red
+- name: forest
+  color: green

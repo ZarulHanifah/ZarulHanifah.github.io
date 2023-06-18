@@ -1,0 +1,29 @@
+# Site navigation links
+
+- title: About us
+  url: /aboutus/
+  style: "color: #9e161a;"
+
+- title: Services
+  url: /services/
+  style: "color: #9e161a;"
+
+- title: Publications
+  url: /publications/
+  style: "color: #9e161a;"
+
+- title: Blog
+  url: /posts/
+  style: "color: #9e161a;"
+
+- title: People
+  url: /people/
+  style: "color: #9e161a;"
+
+- title: Opportunities
+  url: /opportunities/
+  style: "color: #9e161a;"
+
+- title: Contact us
+  url: /contactus/
+  style: "color: #9e161a;"

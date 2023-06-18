@@ -1,0 +1,143 @@
+# Use this template:
+#
+# - doi:
+#   title:
+#   authors:
+#   journal:
+#   year:
+#   volume:
+#   number:
+#   pages:
+#   additional_info:
+#     highlights:
+#     featured_image:
+
+people:
+  Md_Zoqratt MZH:
+    full_name: Muhammad Zarul Hanifah Md_Zoqratt
+    web_link: https://twitter.com/Zarul_Hanifah
+  
+
+publications:
+  - doi: 10.7717/peerj.12345
+    title: "The inconsistent microbiota of Budu, the Malaysian fermented anchovy sauce, revealed through 16S amplicon sequencing"
+    authors: Muhammad Zarul Hanifah Md_Zoqratt, Han Ming Gan
+    journal: PeerJ
+    year: 2021
+    volume: 9
+    number:
+    pages: e12345
+    additional_info:
+      featured_image: /images/pubs/budu.jpg
+      highlights:
+        - Budu is a Malaysian favourite fish sauce, which is produced by fermenting in over 6 months.
+        - Some samples were dominated by <i>Tetragenococcus</i>, but was almost absent in other samples.
+        - Amino acid metabolism and purine metabolism were of interest. The predicted metabolism of a Budu sample coincides with the abundance and species diversity.
+  
+  - doi:  10.3390/biology9120424
+    title: "Determining Soil Microbial Communities and Their Influence on Ganoderma Disease Incidences in Oil Palm (Elaeis guineensis) via High-Throughput Sequencing"
+    authors: Yit Kheng Goh, Muhammad Zarul Hanifah Md_Zoqratt, You Keng Goh, Qasim Ayub, Adeline Su Yien Ting
+    journal: biology
+    year: 2020
+    volume: 9
+    number: 12
+    pages: 
+    additional_info:
+      highlights:
+      featured_image:
+  
+  - doi: 10.1016/j.biocontrol.2021.104787
+    title: "Discovering naturally-occurring microbiota in disease suppressive soil: Potential role of biological elements in suppressing Ganoderma boninense"
+    authors: Yit Kheng Goh, Muhammad Zarul Hanifah Md_Zoqratt, You Keng Goh, Qasim Ayub, Adeline Su Yien Ting
+    journal: Biological Control
+    year: 2022
+    volume: 165
+    number: 
+    pages: 104787
+    additional_info:
+      highlights:
+      featured_image:
+  
+  - doi: 10.1038/s41598-022-05656-3
+    title: "The gut virome in two indigenous populations from Malaysia"
+    authors: Lee Chuen Zhang, Muhammad Zarul Hanifah Md_Zoqratt, Phipps Maude E, Barr Jeremy J, Lal Sunil K, Ayub Qasim, Rahman Sadequr
+    journal: Scientific Reports
+    year: 2022
+    volume: 12
+    number: 1
+    pages: 1824
+    additional_info:
+      highlights:
+      featured_image:
+  
+  - doi: 10.1128/mra.01018-21
+    title: "Genome Sequence of Lelliottia sp. Strain WAP21, Isolated from Soil in Canola Fields in Victoria, Australia"
+    authors: Phuong Nguyen Tran, Muhammad Zarul Hanifah Md_Zoqratt, Agnes Michalczyk, Leigh Ackland M, Alejandro Sanchez-Flores
+    journal: Microbiology Resource Announcements
+    year: 2022
+    volume: 0
+    number: 0
+    pages: e01018--21
+    additional_info:
+      highlights:
+      featured_image:
+  
+  - doi: 10.1186/s13104-021-05493-z
+    title: "Characterization of multidrug-resistant Acinetobacter baumannii strain ATCC BAA1605 using whole-genome sequencing"
+    authors: Kah Ern Ten, Muhammad Zarul Hanifah Md_Zoqratt, Qasim Ayub, Hock Siew Tan
+    journal: BMC Research Notes
+    year: 2021
+    volume: 14
+    number: 1
+    pages: 83
+    additional_info:
+      highlights:
+      featured_image:
+
+  - doi: 10.1007/s13205-020-02617-3
+    title: "Bacterial and eukaryotic microbial communities in urban water systems profiled via Illumina MiSeq platform"
+    authors: Adeline Su Yien Ting, Muhammad Zarul Hanifah Md_Zoqratt, Hock Siew Tan, Aditya Hermawan Reas, Amin Talei, Khu Soon Thiam
+    journal: 3 Biotech
+    year: 2021
+    volume: 11
+    number: 2
+    pages: 40
+    additional_info:
+      highlights:
+      featured_image:
+  
+  - doi: 10.1186/s12866-021-02097-2
+    title: "Transcriptome analysis of Escherichia coli K1 after therapy with hesperidin conjugated with silver nanoparticles"
+    authors: Abdulkader Masri, Naveed Ahmed Khan, Muhammad Zarul Hanifah Md_Zoqratt, Qasim Ayub, Ayaz Anwar, Komal Rao, Muhammad Raza Shah, Ruqaiyyah Siddiqui
+    journal: BMC Microbiology
+    year: 2021
+    volume: 21
+    number: 1
+    pages: 51
+    additional_info:
+      highlights:
+      featured_image:
+  
+  - doi: 10.1016/j.envpol.2019.113867 
+    title: "Impacts of morphological-controlled ZnO nanoarchitectures on aerobic microbial communities during real wastewater treatment in an aerobic-photocatalytic system"
+    authors: Chang Jang Sen, Chong Meng Nan, Poh Phaik Eong, Ocon Joey D., Muhammad Zarul Hanifah Md_Zoqratt, Sze Mei Lee
+    journal: Environmental Pollution
+    year: 2020
+    volume: 259
+    number: 
+    pages: 113867
+    additional_info:
+      highlights:
+      featured_image:
+  
+  - doi: 10.7717/peerj.5826
+    title: "Microbiome analysis of Pacific white shrimp gut and rearing water from Malaysia and Vietnam: implications for aquaculture research and management"
+    authors: Muhammad Zarul Hanifah Md_Zoqratt, Wilhelm Wei Han Eng, Binh Thanh Thai, Christopher M. Austin, Han Ming Gan
+    journal: PeerJ
+    year: 2018
+    volume: 6
+    number: 
+    pages: e5826
+    additional_info:
+      highlights:
+      featured_image:

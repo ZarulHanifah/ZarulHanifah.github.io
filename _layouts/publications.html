@@ -1,0 +1,46 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include _head.html %}
+</head>
+
+<body class="page">
+
+{% include _navigation.html %}
+
+{% include _imagewrap.html %}
+
+<div id="main" role="main">
+
+  <article class="post">
+
+    <h1>Publications</h1>
+
+    <div class="article-wrap">
+     <div id="articlecontent">
+
+         <section id="markdown-toc" class="toc">
+            <header><h3 id="toc-header"><i class="fa fa-book"></i> Years</h3></header>
+            <div id="drawer">{% include _toc.html html=content %}</div>
+        </section>
+
+        {{ content }}
+     </div> 
+    </div><!-- /.article-wrap -->
+  </article>
+
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    {% include _footer.html %}
+  </footer>
+</div><!-- /.footer-wrap -->
+
+{% include _scripts.html %}          
+
+</body>
+</html>
