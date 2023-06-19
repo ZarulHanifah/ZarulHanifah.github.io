@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Fast Genomics Solutionz</title>
+<title type="text">Fast Genomics Solution</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2023-06-18T23:04:40+08:00</updated>
+<updated>2023-06-19T17:12:12+08:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Fast Genomics Solutions</name>
@@ -57,9 +57,16 @@
 
 &lt;h1 id=&quot;what-the-hell-is-this&quot;&gt;What the hell is this?&lt;/h1&gt;
 
-&lt;iframe width=&quot;900&quot; height=&quot;800&quot; frameborder=&quot;0&quot; scrolling=&quot;yes&quot; src=&quot;https://chart-studio.plotly.com/~knt.tomato/3.embed&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;700&quot; height=&quot;700&quot; frameborder=&quot;0&quot; scrolling=&quot;yes&quot; src=&quot;https://chart-studio.plotly.com/~knt.tomato/3.embed&quot;&gt;&lt;/iframe&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2023/06/18/budu-excuse-to-write-something/&quot;&gt;An excuse to write something&lt;/a&gt; was originally published by Fast Genomics Solutions at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fast Genomics Solutionz&lt;/a&gt; on June 18, 2023.&lt;/p&gt;
+&lt;h1 id=&quot;can-i-embed-a-html-object-here&quot;&gt;Can I embed a html object here?&lt;/h1&gt;
+
+&lt;iframe id=&quot;test&quot; width=&quot;600&quot; height=&quot;600&quot; frameborder=&quot;0&quot; src=&quot;/images/test_normal_dist.html&quot;&gt;
+&lt;/iframe&gt;
+
+&lt;p&gt;Yes I can!&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2023/06/18/budu-excuse-to-write-something/&quot;&gt;An excuse to write something&lt;/a&gt; was originally published by Fast Genomics Solutions at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fast Genomics Solution&lt;/a&gt; on June 18, 2023.&lt;/p&gt;
 
   </content>
 </entry>
@@ -95,7 +102,7 @@
 
 &lt;p&gt;Fast forward to 2023, the company had already been running (or maybe walking) for 1.5 years. It was at this time that Zarul and Azam realised it was missing something.. a woman! I am kidding of course. They had discussed the possibility of adding another partner to the company- me (Harpreet Kaur). The two of them approached me with this very tempting offer of being a partner. I LOVEEE anything to do with microbes and almost instantly agreed to join them. Thus, the company is where it is now, with three partners who share a combined love for microbiology, environmental science and bioinformatics.&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2023/06/08/the-beginning-of-us/&quot;&gt;The Beginning of Us&lt;/a&gt; was originally published by Fast Genomics Solutions at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fast Genomics Solutionz&lt;/a&gt; on June 08, 2023.&lt;/p&gt;
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2023/06/08/the-beginning-of-us/&quot;&gt;The Beginning of Us&lt;/a&gt; was originally published by Fast Genomics Solutions at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fast Genomics Solution&lt;/a&gt; on June 08, 2023.&lt;/p&gt;
 
   </content>
 </entry>

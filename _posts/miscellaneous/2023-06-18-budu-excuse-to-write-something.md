@@ -43,4 +43,16 @@ image:
 
 # What the hell is this?
 
-<iframe width="900" height="800" frameborder="0" scrolling="yes" src="https://chart-studio.plotly.com/~knt.tomato/3.embed"></iframe>
+<iframe width="700" height="700" frameborder="0" scrolling="yes" src="https://chart-studio.plotly.com/~knt.tomato/3.embed"></iframe>
+
+
+# Can I embed a html object here?
+
+<iframe id="test"
+width=600
+height=600
+frameborder="0"
+src="/images/test_normal_dist.html">
+</iframe>
+
+Yes I can!
