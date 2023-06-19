@@ -41,15 +41,20 @@ image:
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">My second first author :)<br><br>The 16S Budu microbiota <a href="https://t.co/tXZSo3Xncj">https://t.co/tXZSo3Xncj</a></p>&mdash; Zarul Hanifah (@Zarul_Hanifah) <a href="https://twitter.com/Zarul_Hanifah/status/1453656590645559302?ref_src=twsrc%5Etfw">October 28, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# What the hell is this?
+# What the hell is this Mount Bruno?
 
-<iframe width="700" height="700" frameborder="0" scrolling="yes" src="https://chart-studio.plotly.com/~knt.tomato/3.embed"></iframe>
+<iframe id="Mount Bruno"
+width="100%"
+height="600"
+frameborder="0"
+scrolling="yes"
+src="https://chart-studio.plotly.com/~knt.tomato/3.embed"></iframe>
 
 
 # Can I embed a html object here?
 
 <iframe id="test"
-width=600
+width="100%"
 height=600
 frameborder="0"
 src="/images/test_normal_dist.html">

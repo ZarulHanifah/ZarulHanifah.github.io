@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2023-06-19T17:12:12+08:00</updated>
+<updated>2023-06-19T18:49:46+08:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Fast Genomics Solutions</name>
@@ -55,13 +55,13 @@
 &lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;My second first author :)&lt;br /&gt;&lt;br /&gt;The 16S Budu microbiota &lt;a href=&quot;https://t.co/tXZSo3Xncj&quot;&gt;https://t.co/tXZSo3Xncj&lt;/a&gt;&lt;/p&gt;&amp;mdash; Zarul Hanifah (@Zarul_Hanifah) &lt;a href=&quot;https://twitter.com/Zarul_Hanifah/status/1453656590645559302?ref_src=twsrc%5Etfw&quot;&gt;October 28, 2021&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
 
-&lt;h1 id=&quot;what-the-hell-is-this&quot;&gt;What the hell is this?&lt;/h1&gt;
+&lt;h1 id=&quot;what-the-hell-is-this-mount-bruno&quot;&gt;What the hell is this Mount Bruno?&lt;/h1&gt;
 
-&lt;iframe width=&quot;700&quot; height=&quot;700&quot; frameborder=&quot;0&quot; scrolling=&quot;yes&quot; src=&quot;https://chart-studio.plotly.com/~knt.tomato/3.embed&quot;&gt;&lt;/iframe&gt;
+&lt;iframe id=&quot;Mount Bruno&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot; scrolling=&quot;yes&quot; src=&quot;https://chart-studio.plotly.com/~knt.tomato/3.embed&quot;&gt;&lt;/iframe&gt;
 
 &lt;h1 id=&quot;can-i-embed-a-html-object-here&quot;&gt;Can I embed a html object here?&lt;/h1&gt;
 
-&lt;iframe id=&quot;test&quot; width=&quot;600&quot; height=&quot;600&quot; frameborder=&quot;0&quot; src=&quot;/images/test_normal_dist.html&quot;&gt;
+&lt;iframe id=&quot;test&quot; width=&quot;100%&quot; height=&quot;600&quot; frameborder=&quot;0&quot; src=&quot;/images/test_normal_dist.html&quot;&gt;
 &lt;/iframe&gt;
 
 &lt;p&gt;Yes I can!&lt;/p&gt;
