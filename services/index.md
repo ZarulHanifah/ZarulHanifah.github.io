@@ -10,4 +10,12 @@ image:
 
 
 <h3 style="margin-top: 1em;">Services</h3>
-Whatcha want
+Services
+-16S rRNA gene sequencing
+-Shotgun metagenomics
+-Microbial pangenomics and phylogenomics
+Tell us your amazing research! We'll see what we can do!
+Teach coding
+  -Linux Bash, Python
+ Collaboration
+Want to collaborate? Tell us your amazing idea!
