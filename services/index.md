@@ -8,7 +8,8 @@ image:
 ---
 
 <h3 style="margin-top: 1em;">Services</h3>
-Services
+
+#### Bioinformatics services
 - 16S rRNA gene sequencing
 - Shotgun metagenomics
 - Microbial pangenomics and phylogenomics
