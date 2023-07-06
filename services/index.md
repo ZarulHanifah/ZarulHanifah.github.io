@@ -22,4 +22,5 @@ Teach coding
   - Python
 
 Collaboration
+</br>
 We warmly welcome collaboration opportunities and are eager to join forces with like-minded individuals and organizations to achieve greater impact together. Want to collaborate? Tell us your amazing idea!
