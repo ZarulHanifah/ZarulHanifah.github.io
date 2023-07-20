@@ -23,13 +23,13 @@ My aptitude for the natural sciences was always apparent even when I was in kind
 
 Now at 26 I am doing a PhD on the very topic that directly ties down to those feelings I had 20 years ago. My PhD project is something I am very proud of doing. It is the assessment of the ecology and genetics of peat swamp fishes of North Selangor Peat Swamp Forest. This project requires that I survey peat ecosystems that are nothing short of challenging. It is a labor intensive project and requires a strong survival skill, lots of stamina, and good interpersonal skills.
 
-Despite the dangers of having to go into the forest and knowing its dangers. My eyes light up with excitement every time I traverse through the dense forests thick with thorns, wade through knee deep mud and swim through deep canals. All of it were for naught as the fish diversity I saw in these ecosystems were astounding! Cataloging over 50 different species of fishes from all manner of shapes, colours and forms.
+Despite the dangers of having to go into the forest and knowing its dangers. My eyes light up with excitement every time I traverse through the dense forests thick with thorns, wade through knee deep mud and swim through deep canals. All of it were not for naught as the fish diversity I saw in these ecosystems were astounding! Cataloging over 50 different species of fishes from all manner of shapes, colours and forms.
 
 {% include IMAGE path="/images/miscellaneous/2023-07-13-a-little-boys-dream-to-become-a-scientist/image1.jpeg" caption="Looking to the horizon" %}
 
 Fieldwork at the Trusan river, Lawas in the highlands of Sarawak though hours of timber roads and kilometers of hiking.
 
-One of the most notable is the beautiful is the Pearl Gourami (Trichopodus leerii) caught at one of my sites. Observe the iridescent green colours with the pearly white scales that are outline by the black circles. 
+One of the most notable is the beautiful Pearl Gourami (Trichopodus leerii) caught at one of my sites. Observe the iridescent green colours with the pearly white scales that are outline by the black circles. 
 
 {% include IMAGE path="/images/miscellaneous/2023-07-13-a-little-boys-dream-to-become-a-scientist/image2.jpeg" caption="Striking colouration of the Pearl Gourami is nothing short of mesmerizing." %}
 
