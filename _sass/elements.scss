@@ -1,4 +1,35 @@
 /* 
+   Zarul added
+   ========================================================================== */
+.recent-posts {
+    display: flex;
+    flex-direction: column;
+}
+.recent-posts article {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+}
+.recent-posts .thumbnail {
+    flex: 0 0 150px; /* Fixed width and height */
+    height: 150px;
+    margin-right: 20px;
+    overflow: hidden; /* Hide overflow to maintain square shape */
+    position: relative;
+}
+.recent-posts .thumbnail img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Ensures the image covers the square area */
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.recent-posts .content {
+    flex: 1;
+}
+
+/* 
    Rules
    ========================================================================== */
 
@@ -10,6 +41,44 @@ hr {
 	border: 0; 
 	border-top: 1px solid #ccc;
 	border-bottom: 1px solid #fff; 
+}
+
+/* 
+   Float
+   ========================================================================== */
+
+.flex-container {
+    display: flex;
+    position: relative;
+    margin-bottom: 40px;
+}
+
+.flex-child {
+    display: flex;            /* Enable flexbox on this element */
+    flex-direction: column;   /* Ensure the content is stacked vertically */
+    justify-content: center;  /* Center the content vertically */
+    flex: 1;                  /* Allow the element to grow and shrink as needed */
+    position: relative;
+}
+
+.flex-child p {
+    margin: 0;  /* Reset margin if there is any unwanted space */
+    text-align: center;  /* Center text horizontally if desired */
+}
+
+.flex-child:first-child {
+    position: relative;
+    margin-right: 20px;
+}
+
+@media (max-width: 768px) {
+    .flex-container {
+        flex-direction: column; /* Stack elements vertically */
+    }
+    .flex-child:first-child {
+        margin-right: 0; /* Remove right margin */
+        margin-bottom: 20px; /* Add bottom margin */
+    }
 }
 
 /* 

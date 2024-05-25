@@ -8,6 +8,7 @@ tags: [forest, fishes]
 categories: [miscellaneous]
 comments: true
 noleftpanel: true
+thumbnail: /images/miscellaneous/2023-07-13-a-little-boys-dream-to-become-a-scientist/image2.jpeg
 image:
   display: true
   feature: imagewrap/little_boy.jpg

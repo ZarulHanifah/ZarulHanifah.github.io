@@ -19,6 +19,80 @@ people:
   
 
 publications:
+
+  - doi: 10.1371/journal.pone.0291892
+    title: "Unravelling the link between SARS-CoV-2 mutation frequencies, patient comorbidities, and structural dynamics"
+    authors: Amirah Azzeri, Nurul Azmawati Mohamed, Saarah Huurieyah Wan Rosli, Muttaqillah Najihan Abdul Samat, Zetti Zainol Rashid, Muhamad Arif Mohamad Jamali, Muhammad Zarul Hanifah Md_Zoqratt, Muhammad Azamuddeen Mohammad Nasir, Harpreet Kaur Ranjit Singh, Liyana Azmi
+    journal: PLOS ONE
+    year: 2024
+    volume: 19
+    number: 
+    pages: 
+    additional_info:
+      highlights:
+        - Our first company publication!
+      featured_image: /images/pubs/plosone_covid19.png
+
+  - doi: 10.1016/j.jwpe.2023.104458
+    title: "Influence of ferric oxides with varying crystallinity on the enrichment of halophilic exoelectrogens: An application for power generation in microbial fuel cells"
+    authors: Arshia Fathima, Muhammad Zarul Hanifah Md_Zoqratt, Shu Yong Lim, Fong Yoke Ling, Meng Nan Chong
+    journal: Journal of Water Process Engineering
+    year: 2023
+    volume: 56
+    number: 
+    pages: 104458
+    additional_info:
+      highlights:
+      featured_image:
+
+  - doi: 10.1038/s41598-023-39642-0
+    title: "Genomic and phenotypic characterization of Acinetobacter colistiniresistens isolated from the feces of a healthy member of the community"
+    authors: Nazmul Hasan Muzahid, Muhammad Zarul Hanifah Md_Zoqratt, Kah Ern Ten, Md Hamed Hussain, Tin Tin Su, Qasim Ayub, Hock Siew Tan, Sadequr Rahman
+    journal: Scientific Reports
+    year: 2023
+    volume: 13
+    number: 1
+    pages: 
+    additional_info:
+      highlights:
+      featured_image:
+
+  - doi: 10.3390/pathogens12030502
+    title: "Complete Genome Sequence and Analysis of a ST573 Multidrug-Resistant Methicillin-Resistant Staphylococcus aureus SauR3 Clinical Isolate from Terengganu, Malaysia"
+    authors: Esra’a I. Al-Trad, Ainal Mardziah Che Hamzah, Suat Moi Puah, Kek Heng Chua, Muhamad Zarul Hanifah Md_Zoqratt, Qasim Ayub, Prasit Palittapongarnpim, Stephen M. Kwong, Ching Hoong Chew, Chew Chieng Yeo
+    journal: Pathogens
+    year: 2023
+    volume: 12
+    number: 3
+    pages: 
+    additional_info:
+      highlights:
+      featured_image:
+
+  - doi: 10.3390/tropicalmed7100284
+    title: "Putative Pathogenic Genes of Leptospira interrogans and Leptospira weilii Isolated from Patients with Acute Febrile Illness"
+    authors: Amira Wahida Mohamad Safiee, Mohammad Ridhuan Mohd Ali, Muhammad Zarul Hanifah Md_Zoqratt, Tan Hock Siew, Chua Wei Chuan, Lee Lih Huey, Mohd Hashairi Fauzi, Alwi Muhd Besari, Chan Yean Yean, Nabilah Ismail
+    journal: Tropical Medicine and Infectious Disease
+    year: 2022
+    volume: 7
+    number: 10
+    pages: 
+    additional_info:
+      highlights:
+      featured_image:
+
+  - doi: 10.1111/fwb.13926
+    title: "DNA metabarcoding unravels unknown diversity and distribution patterns of tropical freshwater invertebrates"
+    authors: Alexandra Zieritz, Ping Shin Lee, Wilhelm Wei Han Eng, Shu Yong Lim, Kong Wah Sing, Wei Ning Chan, Jey Sern Loo, Farah Najwa Mahadzir, Ting Hui Ng, Darren C.J. Yeo, Lydia Xinjie Gan, Jing Ye Gan, Christopher Gibbins, Muhammad Zarul Hanifah Md_Zoqratt, John-James Wilson
+    journal: Freshwater Biology
+    year: 2022
+    volume: 67
+    number: 8
+    pages: 1411
+    additional_info:
+      highlights:
+      featured_image:
+
   - doi: 10.7717/peerj.12345
     title: "The inconsistent microbiota of Budu, the Malaysian fermented anchovy sauce, revealed through 16S amplicon sequencing"
     authors: Muhammad Zarul Hanifah Md_Zoqratt, Han Ming Gan

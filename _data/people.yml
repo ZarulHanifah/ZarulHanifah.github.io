@@ -39,25 +39,6 @@
       inst_link: https://www.monash.edu.my/
       current: true
 
-- alias: harpreet
-  lab_member: True
-  name: Harpreet Kaur (Harpreet)
-  name_as_author: Harpreet Kaur
-  role: COO
-  avatar: bio-harpreet.jpg
-  email: harpreet9595@gmail.com
-  twitter: GenomicsFast 
-  github: Harpreeeeet
-  linkedin: harpreet-kaur-729b83107
-  orcid: 0009-0003-1937-3835
-  phone: +60173710644 
-  address: Monash University Malaysia
-  bio: "I am Harpreet. I love anything and everything related to microbiology. I can feel it in my gut. "
-  affiliations:
-    - title: PhD student
-      inst: Monash University Malaysia
-      inst_link: https://www.monash.edu.my/
-      current: true
 
 ####################################################################################
 # Lab Alumni.
@@ -67,11 +48,11 @@
 #   lab_member: True
 #   name: Samuel Miller
 #   name_as_author: Samuel E Miller
-#   tenure_start: 11/2019
-#   tenure_end: 9/2022
-#   nick_name: Sam
-#   contributions: "Sam took on one of the most exciting challenges our group has to offer: taking advantage of the recent advances in high-throughput sequencing of short RNA molecules to make sense of microbial tRNA transcripts in complex habitats. Towards this goal, he developed novel and advanced open-source software tools to study all aspects of chemical modification and relative abundance analysis of tRNA transcripts, and combining them with tRNA genes, codons, and metabolisms found in genomes and metagenomes"
-#   current_info: a Scientific Programmer for <a href="https://ccomp-stc.org/" target="_blank">the Center for Chemical Currencies of a Microbial Planet</a> at the <a href="https://mbl.edu" target="_blank">Marine Biological Laboratory</a>.
+##  tenure_start: 11/2019
+##  tenure_end: 9/2022
+##  nick_name: Sam
+##  contributions: "Sam took on one of the most exciting challenges our group has to offer: taking advantage of the recent advances in high-throughput sequencing of short RNA molecules to make sense of microbial tRNA transcripts in complex habitats. Towards this goal, he developed novel and advanced open-source software tools to study all aspects of chemical modification and relative abundance analysis of tRNA transcripts, and combining them with tRNA genes, codons, and metabolisms found in genomes and metagenomes"
+##  current_info: a Scientific Programmer for <a href="https://ccomp-stc.org/" target="_blank">the Center for Chemical Currencies of a Microbial Planet</a> at the <a href="https://mbl.edu" target="_blank">Marine Biological Laboratory</a>.
 #   role: Post-doctoral Scientist
 #   email: samuelmiller@uchicago.edu
 #   orcid: 0000-0002-2836-1401
@@ -85,6 +66,29 @@
 #     - title: Post-doctoral Scientist
 #       inst: The Department of Medicine at the University of Chicago
 #       inst_link: http://medicine.uchicago.edu/
+
+- alias: harpreet
+  lab_member: True
+  name: Harpreet Kaur (Harpreet)
+  role: COO
+  name_as_author: Harpreet Kaur
+  avatar: bio-harpreet.jpg
+  tenure_start: the start
+  tenure_end: sometime in 2023
+  nick_name: Harpreet
+  email: harpreet9595@gmail.com
+  twitter: GenomicsFast 
+  github: Harpreeeeet
+  linkedin: harpreet-kaur-729b83107
+  orcid: 0009-0003-1937-3835
+  phone: +60173710644 
+  address: Monash University Malaysia
+  bio: "I am Harpreet. I love anything and everything related to microbiology. I can feel it in my gut. "
+  affiliations:
+    - title: PhD student
+      inst: Monash University Malaysia
+      inst_link: https://www.monash.edu.my/
+      current: true
 
 ####################################################################################
 # Collaborators and partners in science

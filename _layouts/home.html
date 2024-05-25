@@ -3,8 +3,12 @@
 <!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
 <!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+
+
 <head>
 {% include _head.html %}
+
+
 </head>
 
 <body class="home">
@@ -18,34 +22,146 @@
 
 <div id="main" role="main">
 
-    <div id="index">
-        <div id="articlecontent">
-          {% include _mission.html %}
+    <!-- <div class="article-author-side">
+      
+    </div> -->
+    <div id="index" style="width: 90%; margin-left: 20px; margin-right: 20px;">
+        <!-- home part1 -->
+        <div class="home_partx" style="background: url('../../images/home/home_part1.png') center no-repeat; background-size: contain;">
+          <!-- {% include _home_part1.html %} -->
+          <div style="padding: 10px">
+            <p>Welcome to</p>
+            <div>
+                <img style="width: 70%; border: 0px; border-radius: 0px;" src="/images/logo-company.png">
+            </div>
+
+            <br><br><br><br><br><br>
+            <p>
+                Helping you analyze and process microbial genomic data.<br>
+                We help you turn data into discoveries.
+            </p>
+
+            <p>
+                <button type="button" href="mailto:{{site.owner.email}}" style="border-radius: 15px; background-color: #a5c4dc; color: white; padding: 10px 20px; border: none;">Get in touch</button>
+            </p>
+          </div>
         </div>
 
+
+
+
+
+        <!-- home part2 -->
+        <!-- <div style="background: linear-gradient(to right, #8ed8fb, #ffffff);"> -->
+        <div >
+          <div class="home_part2" style="background: url('../../images/home/home_part2a.png') center center scroll; background-size: cover; background-repeat: repeat-y;">
+            <div style="padding: 10px">
+              <!-- {% include _home_part2.html %} -->
+              <p style="font-size: 40px; line-height: 1; color: #007ac9;">We are a bioinformatics
+              consulting company,</p>
+
+
+              Our mission is to provide tailored biological informatics support, bridging academia and industry with services including bioinformatics, consultation, and hands-on training. Through precise analysis and engaging data visualization, we help clients understand their data for both research and practical applications. 
+              </br>
+              </br>
+
+
+              <p style="font-size: 40px; line-height: 1;">We provide publication-quality data visualizations.
+              Level up your research by reaching out to us today!</p>
+            </div>
+          </div>
+        </div>
+
+
+
+        <div style="padding: 10px">
+          <h2>Our services include, but not limited to:</h2>
+        <div style="padding: 10px">
+
+        <div  class="home_part3" style="background: url('../../images/home/home_part3.png') center center scroll;">
+          <!-- {% include _home_part3.html %} -->
+          <div style="display: block;">
+              <div class="flex-container">
+                  <div class="flex-child">
+                      <p>Some examples:
+                      <ul>🔅 16S rRNA gene sequencing</ul>
+                      <ul>🔅 Shotgun metagenomics</ul>
+                      <ul>🔅 Microbial pangenomics and phylogenomics</ul>
+                      Tell us what you need and we'll see what we can do!</p>
+                  </div>
+                  <div class="flex-child">
+                      <img style="max-width: 100%;" src="/images/home/service1a.png">
+                  </div>
+              </div>
+
+              <div class="flex-container">
+                  <div class="flex-child">
+                      <img style="max-width: 100%;" src="/images/home/service2a.png">
+                  </div>
+                  <div class="flex-child">
+                      <p><br><br><br>We provide bioinformatics workshops for institutions and coding classes. Contact us if you would like to know more!</p>
+                  </div>
+              </div>
+          </div>
+        </div>
+
+
+        <div class="blue-rectangle">We have provided bioinformatics services and workshops with researchers from these universities and organizations :</div>
+
+        <img style="width: 95%; margin-top: 50px;" src="/images/home/unis.png">
+
         <h3>Recent posts from the blog</h3>
-        {% for post in site.posts limit: 10 %}
-        <article>
-            {% assign author = None %}
-            {% assign p = post.authors[0] %}
-            {% for e in site.data.people %}
-              {% if e.alias == p %}
-                  {% assign author = e %}
-              {% endif %}
+        <div class="recent-posts">
+            {% for post in site.posts limit: 4 %}
+            <article>
+                {% assign author = None %}
+                {% assign p = post.authors[0] %}
+                {% for e in site.data.people %}
+                  {% if e.alias == p %}
+                      {% assign author = e %}
+                  {% endif %}
+                {% endfor %}
+
+                <!-- Thumbnail image with fallback -->
+                <div class="thumbnail">
+                    {% if post.thumbnail %}
+                        <img src="{{ post.thumbnail }}" alt="{{ post.title }} thumbnail">
+                    {% else %}
+                        <img src="https://img.freepik.com/free-vector/cute-monkey-holding-banana-cartoon-vector-icon-illustration-animal-food-icon-concept-isolated-premium-vector-flat-cartoon-style_138676-3324.jpg" alt="Default thumbnail">
+                    {% endif %}
+                </div>
+
+                <!-- Post content -->
+                <div class="content">
+                    {% if author %}
+                      <h2>
+                        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                        <small>({{ post.date | date: "%a, %b %d, %Y" }}, by <span style="color: gray;">{{ author.alias }}</span>)</small>
+                      </h2>
+                    {% else %}
+                      <h2>
+                        <a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a>
+                        <small>({{ post.date | date: "%a, %b %d, %Y" }})</small>
+                      </h2>
+                    {% endif %}
+                    <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
+                    {% for category in site.data.categories %}
+                      {% if category.name == post.categories[0] %}
+                          <span class="lbl" style="background-color: {{ category.color }};">{{ category.name }}</span>
+                      {% endif %}
+                    {% endfor %}
+                </div>
+            </article>
             {% endfor %}
-            {% if author %}
-              <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <small>({{ post.date | date: "%a, %b %d, %Y" }}, by <span style="color: gray;">{{ author.alias }}</span>)</small></h2>
-            {% else %}
-              <h2><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <small>({{ post.date | date: "%a, %b %d, %Y" }})</small></h2>
-            {% endif %}
-            <p>{{ post.excerpt | strip_html | truncate: 160 }}
-            {% for category in site.data.categories %}
-              {% if category.name == post.categories[0] %}
-                  <span class="lbl" style="background-color: {{category.color}}">{{ category.name }}</span>
-              {% endif %}
-            {% endfor %}
-        </article>
-        {% endfor %}
+        </div>
+
+        <div class="yellow-rectangle">
+          <span>
+            In need of our bioinformatics service? Talk to our team today!
+          </span>
+          <span><a href="#" class="btn">Contact Us</a></span>
+        </div>
+
     </div><!-- /#index -->
 </div><!-- /#main -->
 

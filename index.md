@@ -2,8 +2,8 @@
 layout: home
 excerpt: "Fast Genomics Solutions"
 tags: [microbial ecology, 16S rRNA gene sequencing, metagenomics]
+noleftpanel: false
 image:
-  display: true
+  display: false
   feature: imagewrap/home.jpg
 ---
-

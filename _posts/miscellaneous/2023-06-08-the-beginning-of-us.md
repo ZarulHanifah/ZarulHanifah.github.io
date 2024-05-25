@@ -8,6 +8,7 @@ tags: [startup, entrepreneur]
 categories: [miscellaneous]
 comments: true
 noleftpanel: true
+thumbnail: /images/miscellaneous/2023-06-08-the-beginning-of-us/shrub.jpg
 image:
   display: true 
   feature: imagewrap/suffering.jpg

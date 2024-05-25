@@ -17,6 +17,84 @@ p {
    Header
    ========================================================================== */
 
+.blue-rectangle {
+    display: flex;
+    font-variant: small-caps;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-size: x-large;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    width: 100%;
+    max-width: 100%;
+    height: 100px;
+    background: linear-gradient(to right, #004aad, #559c8b);
+    white-space: normal;
+    overflow: hidden;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+@media (max-width: 768px) {
+    .blue-rectangle {
+        font-size: large;
+        height: auto;
+        padding: 10px;
+    }
+}
+
+.yellow-rectangle {
+    display: flex;
+    flex-wrap: wrap; /* Allow content to wrap */
+    font-variant: small-caps;
+    padding-left: 40px;
+    padding-right: 20px;
+    font-size: x-large;
+    align-items: center;
+    color: black;
+    width: 100%;
+    max-width: 100%;
+    height: auto; /* Allow height to adjust based on content */
+    background: linear-gradient(to right, #ffc003, #ddd9d0);
+    box-sizing: border-box;
+}
+
+.yellow-rectangle span {
+    flex: 1 1 auto; /* Allow text to take available space */
+    white-space: normal; /* Allow text to wrap */
+    overflow: hidden; /* Prevent overflow */
+    margin-top: 10px; /* Add top margin for spacing */
+}
+
+.yellow-rectangle .btn {
+    margin-left: auto; /* Push the button to the right */
+    white-space: nowrap; /* Prevent text wrapping inside the button */
+}
+
+
+.left-content {
+    flex: 1;
+    padding: 20px;
+}
+
+.right-content {
+    flex: 1;
+    padding: 20px;
+    text-align: center;
+}
+
+.left-content img {
+    width: 100%;
+    max-width: 100%;
+    height: auto;
+}
+
+.right-content img {
+    max-width: 100%;
+    height: auto;
+}
+
 .page ul {
     line-height: 1.6em;
 }
@@ -312,7 +390,6 @@ th, td {
     background-color: #FEFEFE;
     border-bottom: 1px solid #DEDEDE;
     @include clearfix;
-    background: url('../../images/fractal.jpg') center center scroll;
 }
 
 .quotable {
@@ -793,6 +870,63 @@ th, td {
     }
     @media #{$x-large} {
     }
+}
+
+.home_partx {
+  display: block;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  font-variant: small-caps;
+  text-align: justify;
+  font-size: x-large;
+  border-radius: 0px;
+}
+
+.home_part1 {
+  display: block;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  font-variant: small-caps;
+  text-align: justify;
+  font-size: x-large;
+  background: url('../../images/home/home_part1.png') center no-repeat; 
+  border-radius: 0px;
+  background-size: contain; 
+  /* padding: 50px 100px; */
+}
+
+.home_part2 {
+  display: block;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  font-variant: small-caps;
+  text-align: justify;
+  font-size: x-large;
+  background: url('../../images/home/home_part2.png') center center scroll;
+  border-radius: 0px;
+  background-size: cover; 
+  padding: 10px 20px;
+}
+
+@media (max-width: 768px) {
+    .home_part2 {
+        background-position: left center; /* Fix the background to the left side */
+    }
+}
+
+.home_part3 {
+  display: flex;
+  margin-bottom: 2em;
+  margin-top: 2em;
+  font-variant: small-caps;
+  text-align: justify;
+  font-size: x-large;
+  background: url('../../images/home/home_part3.png') center center scroll;
+  border-radius: 0px;
+  background-size: contain; 
+  padding: 10px 20px;
 }
 
 .mission {
