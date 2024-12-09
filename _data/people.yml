@@ -39,6 +39,42 @@
       inst_link: https://www.monash.edu.my/
       current: true
 
+- alias: shania
+  lab_member: True
+  name: Shania Mira (Shania)
+  avatar: bio-shania.jpg
+  role: Intern
+  email: shaniamira16@gmail.com
+  address: Monash University Malaysia
+  bio: "I am Shania, my interests gravitate towards the world of microbes and its implementation in our daily lives. I enjoy outdoor activities such as swimming and hiking."
+  affiliations:
+    - title: Undergraduate student
+      inst: Monash University Malaysia
+
+- alias: jason
+  lab_member: True
+  name: Sio Jia Shen (Jason)
+  avatar: bio-jiashen.png
+  role: Intern
+  email: siojiashen111@gmail.com
+  insta: Jiashen_sio
+  linkedin: jia-shen-sio-9286a026b
+  address: Monash University Malaysia
+  bio: "Hello, I am Jia Shen. My passion is about unravelling the mysteries of life through genomics, driven by a deep curiosity to explore how genes shape health, evolution, and innovation."
+  affiliations:
+    - title: Bachelor degree Science student
+      inst: Monash University Malaysia
+
+- alias: julian
+  lab_member: True
+  name: Julian Ying (Julian)
+  avatar: bio-julian.jpg
+  role: Intern
+  address: Monash University Malaysia
+  bio: "Hello, I am Julian."
+  affiliations:
+    - title: Bachelor degree Science student
+      inst: Monash University Malaysia
 
 ####################################################################################
 # Lab Alumni.
@@ -89,6 +125,26 @@
       inst: Monash University Malaysia
       inst_link: https://www.monash.edu.my/
       current: true
+
+- alias: rainier
+  name: Rainier William
+  lab_member: True
+  name_as_author: Rainier William
+  avatar: bio-rainier.jpg
+  role: Intern
+  instagram: rainierwilliam
+  email: rainierwilliam516@gmail.com
+  tenure_start: the start
+  tenure_end: sometime in 2023
+  twitter: N/A
+  github: N/A
+  linkedin: Rainier William
+  orcid: 0009-0001-7548-6821
+  address: Monash University Malaysia
+  bio: "I am Rainier and it was when I came across genomics that I fell in love with Biology."
+  affiliations:
+      - title: Bachelor of Science Student 
+
 
 ####################################################################################
 # Collaborators and partners in science
