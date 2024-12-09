@@ -17,11 +17,11 @@ image:
 <img src="images/post-docs.png" style="border:none;" />
 </div> -->
 
-Currently we are interested in people with who:
-- Hsa computational experience 
-- Wish to do microbiology research
-- Indulge in natural environment
-
+Currently we are interested in people who:
+- Have computational experience 
+- Wish to do `microbiology`/`environment`/`pathogen` research
+- Indulge in nature
+![](/images/miscellaneous/opportunities.jpeg){:.center-img .width-50}
 
 If some of these keywords apply to you, please consider sending a CV along with a very short description of your background and research interests to fastgenom at gmail.com to start a conversation:
 `Coding` `Bioinformatics` `Pangenomics` `Microbiome` `Metagenomics` `Metatranscriptomics` `Python` `Linux` `Phylogenetics/Phylogenomics` `Scientific visualization` `Pathogen surveillance` `Nanopore` `eDNA`
