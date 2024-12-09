@@ -3,12 +3,11 @@ layout: contactus-index
 title: Contact us
 excerpt: "Fast Genomics Solutions"
 noleftpanel: true
+notoc: true
 image:
    display: true
    feature: imagewrap/contactus.jpg
 ---
-
-
 
 <h3 style="margin-top: 1em;">Contact Us</h3>
 <p>If you have any inquiries or need more information, please fill out the form below, and we will get back to you shortly.</p>
