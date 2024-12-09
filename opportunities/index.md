@@ -17,8 +17,14 @@ image:
 <img src="images/post-docs.png" style="border:none;" />
 </div> -->
 
-Currently we are interested in computational people who wish to learn microbiology. If some of these keywords apply to you, please consider sending a CV along with a very short description of your background and research interests to meren at uchicago.edu to start a conversation: `human microbiome` `host-microbe interactions` `IBD` `metagenomics` `metatranscriptomics` `information theory` `game theory` `cryptography` `network theory` `Python` `Javascript` `C` `go` `R` `scientific visualization` `software design` `cultivation` `biostatistics`
+Currently we are interested in people with who:
+- Hsa computational experience 
+- Wish to do microbiology research
+- Indulge in natural environment
 
+
+If some of these keywords apply to you, please consider sending a CV along with a very short description of your background and research interests to fastgenom at gmail.com to start a conversation:
+`Coding` `Bioinformatics` `Pangenomics` `Microbiome` `Metagenomics` `Metatranscriptomics` `Python` `Linux` `Phylogenetics/Phylogenomics` `Scientific visualization` `Pathogen surveillance` `Nanopore` `eDNA`
 
 <div style="clear:both"></div>
 
@@ -38,7 +44,7 @@ If you are interested in doing a rotation in our lab, please don't hesitate to g
 <img src="images/visiting-scientists.png" style="border:none;" />
 </div> -->
 
-If you are an undergraduate student or an intern who is looking for a challenging but potentially fruitful project related to the human microbiome and/or bioinformatics, please send an e-mail to meren at uchicago.edu.
+If you are an undergraduate student or an intern who is looking for a challenging but potentially fruitful project related to the human microbiome and/or bioinformatics, please send an e-mail to fastgenom at gmail.com.
 
 Do you have other suggestions? Write to [us]({{site.url}}/people/)!
 
