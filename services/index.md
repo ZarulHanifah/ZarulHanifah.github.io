@@ -1,5 +1,5 @@
 ---
-layout: services-index
+layout: page
 title: Services
 excerpt: "Services excerpt"
 image:
@@ -7,7 +7,7 @@ image:
    feature: imagewrap/services.jpg
 ---
 
-<h3 style="margin-top: 1em;">Services</h3>
+<!-- <h3 style="margin-top: 1em;">Services</h3> -->
 
 #### Bioinformatics services
 - 16S rRNA gene sequencing

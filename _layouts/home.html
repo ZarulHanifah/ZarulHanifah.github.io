@@ -22,9 +22,9 @@
 
 <div id="main" role="main">
 
-    <!-- <div class="article-author-side">
+    <!-- <div class="article-author-side"> -->
       
-    </div> -->
+    </div>
     <div id="index" style="width: 90%; margin-left: 20px; margin-right: 20px;">
         <!-- home part1 -->
         <div class="home_partx" style="background: url('../../images/home/home_part1.png') center no-repeat; background-size: contain;">
@@ -42,13 +42,11 @@
             </p>
 
             <p>
-                <button type="button" href="mailto:{{site.owner.email}}" style="border-radius: 15px; background-color: #a5c4dc; color: white; padding: 10px 20px; border: none;">Get in touch</button>
+              <span><a href="{{ site.url }}/contactus/" class="btn" style="border-radius: 15px; background-color: #a5c4dc; color: white; padding: 10px 20px; border: none;">Get in touch</a></span>
+                
             </p>
           </div>
         </div>
-
-
-
 
 
         <!-- home part2 -->
@@ -159,7 +157,7 @@
           <span>
             In need of our bioinformatics service? Talk to our team today!
           </span>
-          <span><a href="#" class="btn">Contact Us</a></span>
+          <span><a href="{{ site.url }}/contactus/" class="btn">Contact Us</a></span>
         </div>
 
     </div><!-- /#index -->

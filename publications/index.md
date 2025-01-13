@@ -1,5 +1,5 @@
 ---
-layout: publications
+layout: page
 modified: 2024-05-20
 comments: false
 image:
