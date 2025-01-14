@@ -19,7 +19,6 @@ p {
 
 .blue-rectangle {
     display: flex;
-    font-variant: small-caps;
     padding-left: 4px;
     padding-right: 4px;
     font-size: x-large;
@@ -38,7 +37,6 @@ p {
 
 @media (max-width: 768px) {
     .blue-rectangle {
-        font-size: large;
         height: auto;
         padding: 10px;
     }
@@ -47,10 +45,8 @@ p {
 .yellow-rectangle {
     display: flex;
     flex-wrap: wrap; /* Allow content to wrap */
-    font-variant: small-caps;
     padding-left: 40px;
     padding-right: 20px;
-    font-size: x-large;
     align-items: center;
     color: black;
     width: 100%;
@@ -876,7 +872,6 @@ th, td {
   display: block;
   margin-bottom: 1em;
   margin-top: 1em;
-  font-variant: small-caps;
   text-align: justify;
   font-size: x-large;
   border-radius: 0px;
@@ -901,7 +896,6 @@ th, td {
   display: block;
   margin-bottom: 2em;
   margin-top: 2em;
-  font-variant: small-caps;
   text-align: justify;
   font-size: x-large;
   background: url('../../images/home/home_part2.png') center center scroll;
@@ -920,7 +914,6 @@ th, td {
   display: flex;
   margin-bottom: 2em;
   margin-top: 2em;
-  font-variant: small-caps;
   text-align: justify;
   font-size: x-large;
   background: url('../../images/home/home_part3.png') center center scroll;
@@ -1557,7 +1550,9 @@ $button-size: 1.5rem;
     @include container;
     @include clearfix;
     clear: both;
-    padding-bottom: 3em;
+    padding-top: 2em;
+    padding-bottom: 5em;
+    background: #323232;
     a,
     a:active,
     a:visited,
