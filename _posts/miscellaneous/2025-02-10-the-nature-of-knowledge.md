@@ -8,7 +8,7 @@ tags: [volta, internship, science]
 categories: [miscellaneous]
 comments: true
 noleftpanel: true
-thumbnail: /images/miscellaneous/2025-02-10-the-nature-of-knowledge/feature/thumbnail.png
+thumbnail: /images/miscellaneous/2025-02-10-the-nature-of-knowledge/thumbnail.png
 image:
   display: true 
   feature: miscellaneous/2025-02-10-the-nature-of-knowledge/feature.jpg
