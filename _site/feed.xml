@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2025-02-10T09:32:06+08:00</updated>
+<updated>2025-02-10T12:23:38+08:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Fast Genomics Solutions</name>
@@ -48,9 +48,13 @@
 &lt;div class=&quot;blockquote-author&quot;&gt;me three years ago&lt;/div&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;But the more I watched, the more the magic faded. It became just another fact, like taking Panadol for a headache without ever thinking about the science behind it. The sun rises and sets with perfect precision, never late, yet how often do we even notice? I was reminded of a speaker who once shared how her child was mesmerized by birds flying. She had told herself, “But of course, birds fly—that’s what they do.”&lt;/p&gt;
+&lt;p&gt;But the more I watched, the more the magic faded. It became just another fact, like taking Panadol for a headache without ever thinking about the science behind it. The sun rises and sets with perfect precision, never late, yet how often do we even notice? I was reminded of a speaker who once shared how her child was mesmerized by birds flying. She had told herself, “But of course, birds fly—that’s what they do”.&lt;/p&gt;
 
-&lt;p&gt;&lt;mark&gt;Use this link https://photos.google.com/search/CgRiaXJkIgYKBGJpcmQorKas684y/photo/AF1QipPOW2ZDDniCaELtqtQSstcZuMNLFjKoPd2D68Z6&lt;/mark&gt;&lt;/p&gt;
+&lt;!-- &lt;mark&gt;Use this link https://photos.google.com/search/CgRiaXJkIgYKBGJpcmQorKas684y/photo/AF1QipPOW2ZDDniCaELtqtQSstcZuMNLFjKoPd2D68Z6&lt;/mark&gt; --&gt;
+
+&lt;!-- &lt;img src=&quot;img.gif&quot; alt=&quot;&quot;&gt; --&gt;
+&lt;p&gt;&lt;a href=&quot;/images/miscellaneous/2025-02-10-the-nature-of-knowledge/birds_floating.gif&quot; class=&quot;center-img width-60 image-popup&quot;&gt;&lt;img src=&quot;/images/miscellaneous/2025-02-10-the-nature-of-knowledge/birds_floating.gif&quot; alt=&quot;&quot; title=&quot;&quot; loading=&quot;lazy&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p class=&quot;center-img figure-caption&quot; style=&quot;width:60%&quot;&gt;Seagulls floating against the wind for bread. Back in February 2016, when I was free as a bird.&lt;/p&gt;
 
 &lt;p&gt;We rarely pause to marvel at the everyday wonders around us. Somewhere along the way, we lost that childlike wonder. But strangely, it never crossed my mind to try the experiment myself.&lt;/p&gt;
 

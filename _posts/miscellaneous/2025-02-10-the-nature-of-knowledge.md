@@ -38,7 +38,10 @@ A few years ago, I came across a video of the Volta flame experiment posted by t
 
 But the more I watched, the more the magic faded. It became just another fact, like taking Panadol for a headache without ever thinking about the science behind it. The sun rises and sets with perfect precision, never late, yet how often do we even notice? I was reminded of a speaker who once shared how her child was mesmerized by birds flying. She had told herself, "But of course, birds fly—that’s what they do".
 
-<mark>Use this link https://photos.google.com/search/CgRiaXJkIgYKBGJpcmQorKas684y/photo/AF1QipPOW2ZDDniCaELtqtQSstcZuMNLFjKoPd2D68Z6</mark>
+<!-- <mark>Use this link https://photos.google.com/search/CgRiaXJkIgYKBGJpcmQorKas684y/photo/AF1QipPOW2ZDDniCaELtqtQSstcZuMNLFjKoPd2D68Z6</mark> -->
+
+<!-- <img src="img.gif" alt=""> -->
+{% include IMAGE path="/images/miscellaneous/2025-02-10-the-nature-of-knowledge/birds_floating.gif" caption="Seagulls floating against the wind for bread. Back in February 2016, when I was free as a bird." %}
 
 We rarely pause to marvel at the everyday wonders around us. Somewhere along the way, we lost that childlike wonder. But strangely, it never crossed my mind to try the experiment myself. 
 
