@@ -255,6 +255,11 @@ blockquote::after{
   content: "";
 }
 
+.no-quotes::before {
+    padding: 26px 20px 1px 20px;
+    content: none !important;
+}
+
 blockquote a{
   text-decoration: none;
   background: #eee;
@@ -283,6 +288,22 @@ blockquote em{
     font-variant: small-caps;
     color: #222;
     font-style: normal;
+}
+
+blockquote_tiktok{
+  display: block;
+  background: #f5f5f5;
+  padding: 26px 20px 1px 20px;
+  margin: 32px 0 19px 40px;
+  position: relative;
+  line-height: 1.5;
+  color: #101010;
+  text-align: justify;
+  font-style: italic;
+  border-left: 15px solid #929292;
+  box-shadow: 7px 7px 15px 1px #ccc;
+  border-radius: 5px;
+  min-height: 63px;
 }
 
 /* 
