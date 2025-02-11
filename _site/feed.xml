@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000" />
-<updated>2025-02-10T17:11:27+08:00</updated>
+<updated>2025-02-11T23:43:57+08:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Fast Genomics Solutions</name>
@@ -14,10 +14,10 @@
 
 
 <entry>
-  <title type="html"><![CDATA[The Nature of Knowledge]]></title>
+  <title type="html"><![CDATA[The Nature of Knowledge; Experience with The Volta Flame Experiment]]></title>
   <link rel="alternate" type="text/html" href="http://localhost:4000/2025/02/10/the-nature-of-knowledge/" />
   <id>http://localhost:4000/2025/02/10/the-nature-of-knowledge</id>
-  <updated>2025-02-10T00:00:00-00:00</updated>
+  <updated>2025-02-11T00:00:00-00:00</updated>
   <published>2025-02-10T00:00:00+08:00</published>
   
   <author>
@@ -26,14 +26,14 @@
     <email>zarulsaurus@gmail.com</email>
   </author>
   <content type="html">
-    &lt;h1 id=&quot;before-it-was-written-it-was-lived&quot;&gt;Before It Was Written, It Was Lived.&lt;/h1&gt;
+    &lt;p class=&quot;warning&quot;&gt;&lt;b&gt;Disclaimer:&lt;/b&gt;&lt;br /&gt;The Volta flame experiment is an exciting demonstration of microbial activity and methane combustion, but it involves flammable gases and open flames, which can be hazardous. If you attempt this experiment, ensure proper safety precautions, conduct it in a well-ventilated outdoor area, and have fire suppression measures on hand. Always follow local regulations and, if possible, seek guidance from experienced individuals. Science should be thrilling, but &lt;b&gt;safety always comes first!&lt;/b&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;before-it-was-written-it-was-lived&quot;&gt;Before It Was Written, It Was Lived.&lt;/h1&gt;
 &lt;p&gt;If you want to learn something, just read the textbook—at least, that’s what we’re told. Textbooks are vast collections of what humanity has discovered, serving as references for lecturers and researchers (though for many students today, ChatGPT has taken that role). But knowledge doesn’t begin in books; it begins in experience.&lt;/p&gt;
 
 &lt;p&gt;Long before writing existed, our ancestors discovered fire. They watched the skies, traced the patterns of stars, and learned the rhythms of the land. Through generations of trial and observation, they cultivated crops, found healing in herbs, and passed down their wisdom, long before the first textbooks were written.&lt;/p&gt;
 
-&lt;p&gt;&lt;mark&gt;Add picture here&lt;/mark&gt;&lt;/p&gt;
-
-&lt;p&gt;That same curiosity, the act of observing nature closely, has shaped modern science. Gregor Mendel, in his monastery’s garden, noticed patterns in how pea plants inherited traits. He wasn’t studying genetics—the field of genetics didn’t exist yet—but his meticulous observations laid its foundation. Galileo, studying the heavens, saw Venus go through phases like the Moon, a quiet revelation that defied the prevailing belief of the Church that Earth was the center of everything.&lt;/p&gt;
+&lt;p&gt;That same curiosity, the act of observing nature closely, has shaped modern science. Galileo, studying the heavens, saw Venus go through phases like the Moon, a quiet revelation that defied the prevailing belief of the Church that Earth was the center of everything. Gregor Mendel, in his monastery’s garden, noticed patterns in how pea plants inherited traits. He wasn’t studying genetics—the field of genetics didn’t exist yet—but his meticulous observations laid its foundation.&lt;/p&gt;
 
 &lt;p&gt;All knowledge, before it is recorded, is first an experience—an encounter with nature, a moment of discovery, the pulse of the unknown felt through careful and relentless observation.&lt;/p&gt;
 
@@ -103,13 +103,15 @@
 
 &lt;p&gt;Maybe we picked the wrong spot. Maybe we didn’t collect enough gas. We kept trying, failing again and again—until finally, we got a BOOM.&lt;/p&gt;
 
-&lt;p&gt;&lt;mark&gt;AZAM: add video boom here&lt;/mark&gt;&lt;/p&gt;
+&lt;p class=&quot;notice&quot; style=&quot;max-width: 605px;min-width: 325px;&quot;&gt;
+&lt;iframe style=&quot;max-width: 605px;min-width: 325px;&quot; src=&quot;https://www.youtube.com/embed/BAF1ue21zE4&quot; title=&quot;Trial run Volta experiment&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; referrerpolicy=&quot;strict-origin-when-cross-origin&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
 
 &lt;p&gt;It was exciting! But all we got was the sound—we couldn’t see any flames. I heard it, or at least I thought I did… I asked the others, and they all heard it too, so at least I wasn’t imagining things.&lt;/p&gt;
 
 &lt;p&gt;We decided to try a different site. This time, I adjusted the funnel setup, making sure there were no leaks. We tried again—another boom, then another—but still, no flame.&lt;/p&gt;
 
-&lt;p&gt;We tried a silly trick to collect the gas. This was probably how it looked like to the fishes underwater:&lt;/p&gt;
+&lt;p&gt;We tried a silly trick to collect the gas. This was probably how we looked like to the fishes underwater:&lt;/p&gt;
 
 &lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
     &lt;iframe src=&quot;https://giphy.com/embed/xWazTCAcI7m2A&quot; width=&quot;240&quot; height=&quot;240&quot; style=&quot;&quot; frameborder=&quot;0&quot; class=&quot;giphy-embed&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
@@ -159,7 +161,14 @@ The First Microbial Ecologist&lt;/div&gt;
 
 &lt;p&gt;Maybe that’s part of the adventure—rediscovering the same wonders that once inspired the scientists before us. Hoping for more adventures to come!&lt;/p&gt;
 
-    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2025/02/10/the-nature-of-knowledge/&quot;&gt;The Nature of Knowledge&lt;/a&gt; was originally published by Fast Genomics Solutions at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fast Genomics Solution&lt;/a&gt; on February 10, 2025.&lt;/p&gt;
+&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Axpo. The Twitching of Dead Frogs. Axpo, &lt;a href=&quot;https://www.axpo.com/lu/en/about-us/magazine.detail.html/magazine/energy-market/the-twitching-of-dead-frogs.html&quot;&gt;https://www.axpo.com/lu/en/about-us/magazine.detail.html/magazine/energy-market/the-twitching-of-dead-frogs.html&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;Martin Dworkin, David Gutnick, Sergei Winogradsky: a founder of modern microbiology and the first microbial ecologist, FEMS Microbiology Reviews, Volume 36, Issue 2, March 2012, Pages 364–379, &lt;a href=&quot;https://doi.org/10.1111/j.1574-6976.2011.00299.x&quot;&gt;https://doi.org/10.1111/j.1574-6976.2011.00299.x&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://localhost:4000/2025/02/10/the-nature-of-knowledge/&quot;&gt;The Nature of Knowledge; Experience with The Volta Flame Experiment&lt;/a&gt; was originally published by Fast Genomics Solutions at &lt;a href=&quot;http://localhost:4000&quot;&gt;Fast Genomics Solution&lt;/a&gt; on February 10, 2025.&lt;/p&gt;
 
   </content>
 </entry>

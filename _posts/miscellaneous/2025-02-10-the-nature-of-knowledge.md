@@ -1,9 +1,9 @@
 ---
 layout: post
 authors: [zarul]
-title: "The Nature of Knowledge"
-excerpt: "Experiencing the Magic of Everyday Science in The Swamp"
-modified: 2025-02-10
+title: "The Nature of Knowledge; Experience with The Volta Flame Experiment"
+excerpt: "Inheriting the MBL Microbial Diversity Tradition since 1985"
+modified: 2025-02-11
 tags: [volta, internship, science]
 categories: [miscellaneous]
 comments: true
@@ -14,14 +14,15 @@ image:
   feature: miscellaneous/2025-02-10-the-nature-of-knowledge/feature.jpg
 ---
 
+<p class="warning"><b>Disclaimer:</b><br>The Volta flame experiment is an exciting demonstration of microbial activity and methane combustion, but it involves flammable gases and open flames, which can be hazardous. If you attempt this experiment, ensure proper safety precautions, conduct it in a well-ventilated outdoor area, and have fire suppression measures on hand. Always follow local regulations and, if possible, seek guidance from experienced individuals. Science should be thrilling, but <b>safety always comes first!</b></p>
+
+
 # Before It Was Written, It Was Lived.
 If you want to learn something, just read the textbook—at least, that’s what we’re told. Textbooks are vast collections of what humanity has discovered, serving as references for lecturers and researchers (though for many students today, ChatGPT has taken that role). But knowledge doesn’t begin in books; it begins in experience.
 
 Long before writing existed, our ancestors discovered fire. They watched the skies, traced the patterns of stars, and learned the rhythms of the land. Through generations of trial and observation, they cultivated crops, found healing in herbs, and passed down their wisdom, long before the first textbooks were written.
 
-<mark>Add picture here</mark>
-
-That same curiosity, the act of observing nature closely, has shaped modern science. Gregor Mendel, in his monastery’s garden, noticed patterns in how pea plants inherited traits. He wasn’t studying genetics—the field of genetics didn’t exist yet—but his meticulous observations laid its foundation. Galileo, studying the heavens, saw Venus go through phases like the Moon, a quiet revelation that defied the prevailing belief of the Church that Earth was the center of everything.
+That same curiosity, the act of observing nature closely, has shaped modern science. Galileo, studying the heavens, saw Venus go through phases like the Moon, a quiet revelation that defied the prevailing belief of the Church that Earth was the center of everything. Gregor Mendel, in his monastery’s garden, noticed patterns in how pea plants inherited traits. He wasn’t studying genetics—the field of genetics didn’t exist yet—but his meticulous observations laid its foundation.
 
 All knowledge, before it is recorded, is first an experience—an encounter with nature, a moment of discovery, the pulse of the unknown felt through careful and relentless observation.
 
@@ -88,13 +89,15 @@ We got down into the water with the funnel, disturbed the sediment, ignited it�
 
 Maybe we picked the wrong spot. Maybe we didn’t collect enough gas. We kept trying, failing again and again—until finally, we got a BOOM.
 
-<mark>AZAM: add video boom here</mark>
+<p class="notice" style="max-width: 605px;min-width: 325px;">
+<iframe style="max-width: 605px;min-width: 325px;" src="https://www.youtube.com/embed/BAF1ue21zE4" title="Trial run Volta experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
 
 It was exciting! But all we got was the sound—we couldn’t see any flames. I heard it, or at least I thought I did... I asked the others, and they all heard it too, so at least I wasn’t imagining things.
 
 We decided to try a different site. This time, I adjusted the funnel setup, making sure there were no leaks. We tried again—another boom, then another—but still, no flame.
 
-We tried a silly trick to collect the gas. This was probably how it looked like to the fishes underwater:
+We tried a silly trick to collect the gas. This was probably how we looked like to the fishes underwater:
 
 <div style="display: flex; justify-content: center;">
     <iframe src="https://giphy.com/embed/xWazTCAcI7m2A" width="240" height="240" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
@@ -141,3 +144,10 @@ That’s why this experience felt so special. The excitement of discovery was co
 The Volta Flame experiment is such a simple but powerful demonstration of microbiology’s impact. It’s a reminder that we are living in a microbial world, even if we can’t see it. In retracing the steps of Alessandro Volta, I can’t help but wonder—how did he feel when he first saw the flames dance above the swamp gas? Did people think he was crazy for venturing into the marshes of Lago Maggiore to trap invisible gases? I would love to read his own words about this moment, but I haven’t been able to find them.
 
 Maybe that’s part of the adventure—rediscovering the same wonders that once inspired the scientists before us. Hoping for more adventures to come!
+
+# References
+
+<ul>
+  <li>Axpo. The Twitching of Dead Frogs. Axpo, <a href="https://www.axpo.com/lu/en/about-us/magazine.detail.html/magazine/energy-market/the-twitching-of-dead-frogs.html">https://www.axpo.com/lu/en/about-us/magazine.detail.html/magazine/energy-market/the-twitching-of-dead-frogs.html</a>.</li>
+  <li>Martin Dworkin, David Gutnick, Sergei Winogradsky: a founder of modern microbiology and the first microbial ecologist, FEMS Microbiology Reviews, Volume 36, Issue 2, March 2012, Pages 364–379, <a href="https://doi.org/10.1111/j.1574-6976.2011.00299.x">https://doi.org/10.1111/j.1574-6976.2011.00299.x</a></li>
+</ul>
