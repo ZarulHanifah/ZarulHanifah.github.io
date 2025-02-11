@@ -2,7 +2,7 @@
 layout: post
 authors: [zarul]
 title: "The Nature of Knowledge; Experience with The Volta Flame Experiment"
-excerpt: "Inheriting the MBL Microbial Diversity Tradition since 1985"
+excerpt: "Carrying on the MBL Microbial Diversity tradition since 1985, we recently performed the Volta experiment."
 modified: 2025-02-11
 tags: [volta, internship, science]
 categories: [miscellaneous]
