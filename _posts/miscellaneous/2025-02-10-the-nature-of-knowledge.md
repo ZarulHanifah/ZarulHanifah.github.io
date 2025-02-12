@@ -89,8 +89,8 @@ We got down into the water with the funnel, disturbed the sediment, ignited it�
 
 Maybe we picked the wrong spot. Maybe we didn’t collect enough gas. We kept trying, failing again and again—until finally, we got a BOOM.
 
-<p class="notice" style="max-width: 605px;min-width: 325px;">
-<iframe style="max-width: 605px;min-width: 325px;" src="https://www.youtube.com/embed/BAF1ue21zE4" title="Trial run Volta experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p class="notice" style="max-width: 605px;min-width: 325px; min-height: 305px;">
+<iframe style="max-width: 605px;min-width: 325px; min-height: 300px;" src="https://www.youtube.com/embed/BAF1ue21zE4" title="Trial run Volta experiment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 
 It was exciting! But all we got was the sound—we couldn’t see any flames. I heard it, or at least I thought I did... I asked the others, and they all heard it too, so at least I wasn’t imagining things.
