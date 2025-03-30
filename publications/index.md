@@ -1,6 +1,6 @@
 ---
-layout: page
-modified: 2024-05-20
+layout: publications
+modified: 2025-03-30
 comments: false
 image:
    display: true
@@ -17,12 +17,39 @@ This page lists publications that are most reflective of our interests. For a co
 
 ## 2024
 
+<a id="10.1007/s10661-024-13321-7">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1007/s10661-024-13321-7"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1007/s10661-024-13321-7" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://doi.org/10.1007/s10661-024-13321-7" target="_new">A survey on the occurrence of papaya ringspot virus-P (PRSV-P) in Malaysia and genetic diversity assessment of the coat protein region</a></span>
+    <span class="pub-authors">Mohsen NM, Aziz MA, Thangaraja K, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Mohammad_Nasir MA</span>, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Md_Zoqratt MZH</span>, Bhassu S, Othman RY</span>
+    <span class="pub-journal"> 📚 <b>Environmental Monitoring and Assessment</b>, 196(12) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=A+survey+on+the+occurrence+of+papaya+ringspot+virus-P+(PRSV-P)+in+Malaysia+and+genetic+diversity+assessment+of+the+coat+protein+region" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1007/s10661-024-13321-7" target="_blank">doi:10.1007/s10661-024-13321-7</a></span>
+</div>
+
+<a id="10.1098/rsos.232025">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1098/rsos.232025"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1098/rsos.232025" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://doi.org/10.1098/rsos.232025" target="_new">Adaptation of a fluoroquinolone-sensitive Shigella sonnei to norfloxacin exposure</a></span>
+    <span class="pub-authors">Wong BC, Law SKK, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Md_Zoqratt MZH</span>, Ayub Q, Tan HS</span>
+    <span class="pub-journal"> 📚 <b>Royal Society Open Science</b>, 11(6) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Adaptation+of+a+fluoroquinolone-sensitive+Shigella+sonnei+to+norfloxacin+exposure" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1098/rsos.232025" target="_blank">doi:10.1098/rsos.232025</a></span>
+</div>
+
+<a id="10.1038/s41598-024-59969-6">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1038/s41598-024-59969-6"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1038/s41598-024-59969-6" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://doi.org/10.1038/s41598-024-59969-6" target="_new">Study on intestinal parasitic infections and gut microbiota in cancer patients at a tertiary teaching hospital in Malaysia</a></span>
+    <span class="pub-authors">Norasyikeen SOSF, Ngui R, Zafirah ARS, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Md_Zoqratt MZH</span>, Eng WWH, Ayub Q, Nordin SA, Joseph VNMS, Musa S, Lim YAL</span>
+    <span class="pub-journal"> 📚 <b>Scientific Reports</b>, 14(1) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=Study+on+intestinal+parasitic+infections+and+gut+microbiota+in+cancer+patients+at+a+tertiary+teaching+hospital+in+Malaysia" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1038/s41598-024-59969-6" target="_blank">doi:10.1038/s41598-024-59969-6</a></span>
+</div>
+
 <a id="10.1371/journal.pone.0291892">&nbsp;</a>
 <div class="pub">
 <div class='altmetric-embed' data-badge-type='donut' data-doi="10.1371/journal.pone.0291892"></div>
 <div class="__dimensions_badge_embed__" data-doi="10.1371/journal.pone.0291892" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
     <span class="pub-title"><a href="https://doi.org/10.1371/journal.pone.0291892" target="_new">Unravelling the link between SARS-CoV-2 mutation frequencies, patient comorbidities, and structural dynamics</a></span>
-    <span class="pub-authors">Azzeri A, Mohamed NA, Rosli SHW, Samat MNA, Rashid ZZ, Jamali MAM, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Md_Zoqratt MZH</span>, Nasir MAM, Singh HKR, Azmi L</span>
+    <span class="pub-authors">Azzeri A, Mohamed NA, Rosli SHW, Samat MNA, Rashid ZZ, Jamali MAM, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Md_Zoqratt MZH</span>, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Mohammad_Nasir MA</span>, <span class="pub-member-author" title='An official member of the lab at the time of publication'>Ranjit_Singh HK</span>, Azmi L</span>
     <div class="pub-info">
     <div class="pub-featured-image">
     <a href="/images/pubs/plosone_covid19.png"><img src="/images/pubs/plosone_covid19.png" style="max-width: 100px; max-height: 80px; width: auto; border: none; height: auto; margin: 0 auto; display: block; transform: translateY(15%);"/></a>

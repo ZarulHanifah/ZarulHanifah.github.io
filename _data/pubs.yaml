@@ -17,12 +17,46 @@ people:
     full_name: Muhammad Zarul Hanifah Md_Zoqratt
     web_link: https://twitter.com/Zarul_Hanifah
   
+  Mohammad_Nasir MA:
+    full_name: Muhammad Azamuddeen Mohammad_Nasir
+
+  Ranjit_Singh HK:
+    full_name: Harpreet Kaur Ranjit_Singh
 
 publications:
 
+
+  - doi: 10.1007/s10661-024-13321-7
+    title: "A survey on the occurrence of papaya ringspot virus-P (PRSV-P) in Malaysia and genetic diversity assessment of the coat protein region"
+    authors: Norazyani Mohsin Mohsen, Muhamad Afiq Aziz, Kuganisha Thangaraja, Muhammad Azamuddeen Mohammad_Nasir, Muhammad Zarul Hanifah Md_Zoqratt, Subha Bhassu, Rofina Yasmin Othman
+    journal: Environmental Monitoring and Assessment
+    volume: 196
+    year: 2024
+    ISSN: 1573-2959
+    number: 12
+    pages:
+
+  - doi: 10.1098/rsos.232025
+    title: "Adaptation of a fluoroquinolone-sensitive Shigella sonnei to norfloxacin exposure"
+    authors: Bao Chi Wong, Soffi Kei Kei Law, Muhammad Zarul Hanifah Md_Zoqratt, Qasim Ayub, Hock Siew Tan
+    journal: Royal Society Open Science
+    year: 2024
+    volume: 11
+    number: 6
+    pages:
+
+  - doi: 10.1038/s41598-024-59969-6
+    title: "Study on intestinal parasitic infections and gut microbiota in cancer patients at a tertiary teaching hospital in Malaysia"
+    authors: Sidi Omar Siti Farah Norasyikeen, Romano Ngui, Ab Rahman Syaza Zafirah, Muhammad Zarul Hanifah Md_Zoqratt, Wilhelm Wei Han Eng, Qasim Ayub, Syafinaz Amin Nordin, Vesudian Narcisse Mary Sither Joseph, Sabri Musa, Yvonne Ai Lian Lim
+    journal: Scientific Reports
+    volume: 14
+    year: 2024
+    number: 1
+    pages:
+
   - doi: 10.1371/journal.pone.0291892
     title: "Unravelling the link between SARS-CoV-2 mutation frequencies, patient comorbidities, and structural dynamics"
-    authors: Amirah Azzeri, Nurul Azmawati Mohamed, Saarah Huurieyah Wan Rosli, Muttaqillah Najihan Abdul Samat, Zetti Zainol Rashid, Muhamad Arif Mohamad Jamali, Muhammad Zarul Hanifah Md_Zoqratt, Muhammad Azamuddeen Mohammad Nasir, Harpreet Kaur Ranjit Singh, Liyana Azmi
+    authors: Amirah Azzeri, Nurul Azmawati Mohamed, Saarah Huurieyah Wan Rosli, Muttaqillah Najihan Abdul Samat, Zetti Zainol Rashid, Muhamad Arif Mohamad Jamali, Muhammad Zarul Hanifah Md_Zoqratt, Muhammad Azamuddeen Mohammad_Nasir, Harpreet Kaur Ranjit_Singh, Liyana Azmi
     journal: PLOS ONE
     year: 2024
     volume: 19
