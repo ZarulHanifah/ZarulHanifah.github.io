@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab Culture and Expectations
+title: Culture
 modified: 2020-12-10
 comments: false
 excerpt: "A guide for new and current members of our group"
