@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: About Us
 excerpt: "Fast Genomics Solutions"
 image:
    display: true
