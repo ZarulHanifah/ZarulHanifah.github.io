@@ -1,4 +1,5 @@
 ---
+title: Publications
 layout: publications
 modified: 2025-03-30
 comments: false
