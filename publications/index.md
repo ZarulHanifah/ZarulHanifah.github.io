@@ -1,7 +1,6 @@
 ---
-title: Publications
 layout: publications
-modified: 2025-03-30
+modified: 2025-07-01
 comments: false
 image:
    display: true
@@ -15,6 +14,26 @@ image:
 {:.notice}
 
 This page lists publications that are most reflective of our interests. For a complete list, please see <a href='/people' target='_blank'>our Google Scholar profile</a>.
+
+## 2025
+
+<a id="10.1093/mollus/eyaf008">&nbsp;</a>
+<div class="pub">
+<div class='altmetric-embed' data-badge-type='donut' data-doi="10.1093/mollus/eyaf008"></div>
+<div class="__dimensions_badge_embed__" data-doi="10.1093/mollus/eyaf008" data-hide-zero-citations="true" data-legend="hover-bottom" data-style="small_circle"></div>
+    <span class="pub-title"><a href="https://doi.org/10.1093/mollus/eyaf008" target="_new">First record of Ensidens telus (Bivalvia: Unionidae) from Malaysi</a></span>
+    <span class="pub-authors"><span class="pub-member-author" title='An official member of the lab at the time of publication'>Mohammad_Nasir MA</span>, Pfeiffer J, Hartikainen H, Dimon J, Zieritz A</span>
+    <div class="pub-info">
+    <div class="pub-featured-image">
+    <a href="/images/pubs/etelus.jpeg"><img src="/images/pubs/etelus.jpeg" style="max-width: 100px; max-height: 80px; width: auto; border: none; height: auto; margin: 0 auto; display: block; transform: translateY(15%);"/></a>
+    </div>
+    <div class="pub-highlights">
+    <span style="display: inline-block; padding-bottom: 5px;">- Discovery of a new species in Malaysia! Which was only found in the Mekong River?!</span><br><span style="display: inline-block; padding-bottom: 5px;">- Azam as first author!</span>
+    </div>
+    </div>
+    <span class="pub-journal"> 📚 <b>Journal of Molluscan Studies</b>, 91(2) | 🔍 <a href="http://scholar.google.com/scholar?hl=en&q=First+record+of+Ensidens+telus+(Bivalvia:+Unionidae)+from+Malaysi" target="_blank">Google Scholar</a> | 🔗 <a href="https://doi.org/10.1093/mollus/eyaf008" target="_blank">doi:10.1093/mollus/eyaf008</a></span>
+</div>
+
 
 ## 2024
 

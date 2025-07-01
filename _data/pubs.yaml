@@ -24,7 +24,20 @@ people:
     full_name: Harpreet Kaur Ranjit_Singh
 
 publications:
-
+  - doi: 10.1093/mollus/eyaf008
+    title: "First record of Ensidens telus (Bivalvia: Unionidae) from Malaysi"
+    authors: Muhammad Azamuddeen Mohammad_Nasir, John Pfeiffer, Hanna Hartikainen, Jake Dimon, Alexandra Zieritz
+    journal: Journal of Molluscan Studies
+    volume: 91
+    year: 2025
+    ISSN: 1464-3766
+    number: 2
+    pages:
+    additional_info:
+      highlights:
+        - Discovery of a new species in Malaysia! Which was only found in the Mekong River?!
+        - Azam as first author!
+      featured_image: /images/pubs/etelus.jpeg
 
   - doi: 10.1007/s10661-024-13321-7
     title: "A survey on the occurrence of papaya ringspot virus-P (PRSV-P) in Malaysia and genetic diversity assessment of the coat protein region"
