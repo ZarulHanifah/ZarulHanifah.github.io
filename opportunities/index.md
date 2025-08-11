@@ -13,7 +13,7 @@ image:
 
 ## Internships
 
-![](/images/miscellaneous/opportunities.jpeg){:.center-img .width-60}
+![](/images/miscellaneous/opportunities.jpeg){:.center-img .width-40}
 
 Currently we are interested in people who:
 - Have computational experience 
@@ -21,7 +21,7 @@ Currently we are interested in people who:
 - Indulge in nature
 
 
-If you are an undergraduate student or an intern who is looking for a challenging but potentially fruitful project related to the human microbiome and/or bioinformatics, please send an e-mail to fastgenom at gmail.com.
+If you are an undergraduate student or an intern who is looking for a challenging but potentially fruitful project related to the human microbiome and/or bioinformatics, please send fill in this [Internship Application form](https://forms.gle/WWZe1MLupTAWRkwQA) (prepare a CV too).
 
 Or, if some of these keywords apply to you, please consider sending a CV along with a very short description of your background and research interests to fastgenom at gmail.com to start a conversation:
 `Coding` `Bioinformatics` `Pangenomics` `Microbiome` `Metagenomics` `Metatranscriptomics` `Python` `Linux` `Phylogenetics/Phylogenomics` `Scientific visualization` `Pathogen surveillance` `Nanopore` `eDNA`
